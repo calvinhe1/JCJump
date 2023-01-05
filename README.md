@@ -4,6 +4,8 @@ JC Jump! is an original game designed and developed in the programming language 
 
 The game is run on the DE1-SoC computer with an ARMv7 processor. 
 
+
+# How it works
 There are multiple features in this game, one of them being difficulty level. By configuring the switches on the computer system, it starts the game with the corresponding difficulty level. Switch 0, 1, and 2 represent easy, medium, and hard difficulty respectively.
 
 Easy mode consists of the game providing 3-4 letter words to the user to type in to score a point.
@@ -15,6 +17,7 @@ There are also push buttons on the computer system. Push button 0 causes the gam
 
 The below videos are some examples on how the game is played, and is shown using a computer system simulator called CPUlator, which replaces the need for an actual DE1-SoC computer.
 
+NOTE: This project was made for the ECE243 course at the University of Toronto, so source code will not be provided.
 
 ## Easy Mode
 https://user-images.githubusercontent.com/66074281/210704067-1aaceeeb-60a3-46f1-b113-489e46d4cc38.mp4
