@@ -1,6 +1,6 @@
-# JC Jump!
+# JC Jump
 
-JC Jump! is an original game designed and developed in the programming language C. To play the game, the player must type in the words displayed on the computer screen correctly to score the highest possible score and simultaneously make the character in the game jump to avoid hitting the bottom of the screen.
+JC Jump is an original game designed and developed in the programming language C. To play the game, the player must type in the words displayed on the computer screen correctly to score the highest possible score and simultaneously make the character in the game jump to avoid hitting the bottom of the screen.
 
 The game is run on the DE1-SoC computer with an ARMv7 processor. 
 
